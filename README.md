@@ -2,4 +2,7 @@
 
 Contoh penggunaan Angular Js + CodeIgniter Rest Server 2.7.1.
 
-Sumber: http://blog.pisyek.com/create-todo-app-with-codeigniter-3-angularjs/
+Referensi:
+- http://blog.pisyek.com/create-todo-app-with-codeigniter-3-angularjs/
+- https://github.com/chriskacerguis/codeigniter-restserver
+- https://angularjs.org/
